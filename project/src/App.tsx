@@ -15,7 +15,7 @@ function App() {
             </div>
             <div className="md:w-1/2">
               <img 
-                src="./img/png-clipart-albert-einstein-grayscale-albert-einstein-spacetime-theory-of-relativity-general-relativity-physicist-einstein-people-monochrome-thumbnail.png"
+                src="../img/png-clipart-albert-einstein-grayscale-albert-einstein-spacetime-theory-of-relativity-general-relativity-physicist-einstein-people-monochrome-thumbnail.png"
                 alt="Retrato de Einstein"
                 className="rounded-lg shadow-xl"
               />
